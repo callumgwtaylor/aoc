@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:aoc}/2023/data/data.db",
+            "name": "aoc"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
